@@ -14,6 +14,22 @@ Welcome to **Vidan**, a **terminal-based video player** (TUI) designed for **Way
 - **Remember Last Session**: Auto-load your last playlist and video 🧠
 - **Thumbnail Previews**: View video thumbnails before playing 🖼️
 
+## 📁 Required Directory Structure
+
+`vidan` expects your video files to be organized like this:
+
+```
+~/Videos/Collection/
+├── Playlist1/
+│   ├── video1.mp4
+│   └── video2.mp4
+├── Playlist2/
+│   └── video3.mkv
+```
+
+Make sure you create the `~/Videos/Collection/` directory and add your playlists (folders) and video files inside. This structure is currently **hardcoded** in the beta version.
+
+
 ## 📥 Installation
 
 There are multiple ways to install and run **Vidan**!
