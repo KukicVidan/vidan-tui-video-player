@@ -16,7 +16,7 @@ Welcome to **Vidan**, a **terminal-based video player** (TUI) designed for **Way
 
 ## 📁 Required Directory Structure
 
-`vidan` expects your video files to be organized like this:
+`vidan-tui-video-player` expects your video files to be organized like this:
 
 ```
 ~/Videos/Collection/
