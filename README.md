@@ -66,6 +66,7 @@ If you're looking for a pre-built **beta version** and don't want to build it yo
 ```bash
 ./vidan-tui-video-player
 ```
+-✅ Just make sure it has execute permission (chmod +x vidan-tui-video-player) once downloaded.
 
 ### 3. **Install via Package Manager (Coming Soon)**
 
