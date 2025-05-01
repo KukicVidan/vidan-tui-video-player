@@ -1,4 +1,4 @@
-# Vidan TUI Video Player 🎥🖥️
+# Vidan TUI Video Player 🎥🖥️ [in RUST 🦀]
 
 Welcome to **Vidan**, a **terminal-based video player** (TUI) designed for **Wayland**! This is a **beta version**, and it's built with a lot of help from AI as I (a complete beginner) learn to code! 🧑‍💻🤖
 
