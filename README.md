@@ -51,7 +51,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/vidan-tui-video-player.git
+git clone https://github.com/KukicVidan/vidan-tui-video-player.git
 cd vidan-tui-video-player
 ```
 
